@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+###Let me introduce myself 
+Hi~ I am oorulw 
+I am studying python, sql , git etc... to be a data scientist.
+
 <!--
 **oorulw/oorulw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
