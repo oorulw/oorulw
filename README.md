@@ -1,14 +1,14 @@
 ### Let me introduce myself 
 
 Hi~ I am oorulw.
-
+Look upside down, that's my name!
 I am studying python to be a data scientist.
 
 ### I can speak...
 
--Korean
--English
--Python
+- Korean
+- English
+- Python
 
 <!--
 **oorulw/oorulw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
