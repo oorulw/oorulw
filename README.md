@@ -1,7 +1,9 @@
 ### Let me introduce myself 
 
 Hi~ I am oorulw.
+
 Look upside down, that's my name!
+
 I am studying python to be a data scientist.
 
 ### I can speak...
